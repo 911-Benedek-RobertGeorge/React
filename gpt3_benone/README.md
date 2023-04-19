@@ -8,5 +8,5 @@ https://animista.net/
 ![Screenshot](ss3.png)
 
 ![Screenshot](blog.png)
-![Screenshot](what_is_gpt.png)
+![Screenshot](what_is_gpt3.png)
  
