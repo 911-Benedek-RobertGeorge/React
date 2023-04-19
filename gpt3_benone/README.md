@@ -4,12 +4,9 @@ https://angrytools.com/gradient/
 https://animista.net/
 
 ![Screenshot](home.png)
+![Screenshot](mobile.png)
+![Screenshot](ss3.png)
 
-<img src="[https://link](https://github.com/911-Benedek-RobertGeorge/React/edit/main/gpt3_benone/home.png)" style=" width:100px ; height:100px " />
-
-<div align="center">
-    <img src="./home.jpg" width="400px"</img> 
-</div>
-<div align="center">
-    <img src=" /home.jpg" width="400px"</img> 
-</div>
+![Screenshot](blog.png)
+![Screenshot](what_is_gpt.png)
+ 
