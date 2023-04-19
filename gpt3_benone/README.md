@@ -1,4 +1,4 @@
-Chat GPT presentation React App
+Chat GPT presentation React app, mobile responsive 
 
 https://angrytools.com/gradient/
 https://animista.net/
