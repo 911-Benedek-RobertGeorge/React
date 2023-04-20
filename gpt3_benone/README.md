@@ -1,6 +1,10 @@
+https://main--gpt3benone.netlify.app/ 
+
 Chat GPT presentation React app, mobile responsive 
 
-https://angrytools.com/gradient/
+
+Useful resources for gradient and for animation
+https://angrytools.com/gradient/ , 
 https://animista.net/
 
 ![Screenshot](home.png)
